@@ -1,0 +1,99 @@
+.sitckyBottom{
+
+    /* position: fixed;
+  //  left: 0;
+    bottom: 0; */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+   padding-left: 20px;
+   padding-right: 20px;
+
+}
+
+.backgroundBody{
+    background-color: #eaeaea;
+}
+
+.navbarBlue.{
+    background: #666fe5;
+}
+
+.whiteC{
+    color:white
+}
+.blackC{
+    color:black !important;
+}
+.tableRow{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 150px;
+}
+.bgWhite{
+    background: white !important;
+}
+.blackPlaceholder::placeholder {
+    color: black !important;
+    opacity: 1; /* Firefox */
+  }
+
+  .b{
+    font-weight:700;
+  }
+
+.noBottomPadding{
+    padding-bottom: 0pc;
+}
+.noBorder{
+    border: none;
+}
+
+.purpleBg{
+    background-color:#172b4d;
+}
+.purpleBorder{
+    border-color:#172b4d;
+}
+
+.text-left{
+    text-align: right !important;
+}
+
+.ml25{
+    margin-left: 29%;
+}
+
+.blueC{
+    color: #666fe5;
+}
+
+.inputField{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #666fe5;
+}
+.borderBottomBlue{
+    border-bottom: 2px solid #666fe5;
+}
+.noBorderShadow{
+    box-shadow: none  !important;
+}
+
+form .focused .input-group-alternative {
+    box-shadow: none  !important;
+}
+
+.noBg{
+    background: none !important;
+}
+
+ svg{
+    display: none !important;
+}
+
+.bgLight{
+    background: #dcdcf2 !important;
+}
+}
